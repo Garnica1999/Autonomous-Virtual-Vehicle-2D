@@ -12,6 +12,15 @@ Los requerimientos del sistema son los siguientes:
 
 La instalacion no es complicada. Solamente descomprima el .zip incluido en la version de releases, y, ademas, ejecute el archivo **TRAIN NEURAL NET CARS.exe**. La version release actual solamente es para obtencion de datos de conduccion humana. Estos datos son capturados directamente por el juego y, ademas, se guardan en un archivo dentro de capeta Dataset, dentro del directorio donde esta el juego.
 
+## CONTROLES
+
+Los controles del juego son los siguientes:
+* W = Acelerar
+* S = Desacelerar o frenar
+* A = Girar a la izquierda
+* D = Girar a la derecha
+* Esc = Salir del juego.
+
 ## Que datos captura??
 
 Los datos capturados son de los sensores del autos (Son unas X que se pintan en frente del auto virtual), ademas de la posicion en el mundo (X,Y), la velocidad y la potencia de giro y de motor. Proximamente se creara un diccionario de datos mas especifico que describa los datos que reune.
