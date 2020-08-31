@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Numpy">
+    <type fullname="Numpy" preserve="all"/>
+  </assembly>
+  <assembly fullname="Python">
+    <type fullname="Python.Runtime" preserve="all"/>
+    <type fullname="Python.Included" preserve="all"/>
+  </assembly>
+</linker>
