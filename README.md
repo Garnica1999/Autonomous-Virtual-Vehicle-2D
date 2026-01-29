@@ -25,4 +25,7 @@ Los controles del juego son los siguientes:
 
 Los datos capturados son de los sensores del autos (Son unas X que se pintan en frente del auto virtual), ademas de la posicion en el mundo (X,Y), la velocidad y la potencia de giro y de motor. Proximamente se creara un diccionario de datos mas especifico que describa los datos que reune.
 
-**Documento en desarrollo**
+## Artículo científico
+
+El artículo ha sido publicado en la IEEE mediante la revista CONIITI en noviembre de 2020. Se puede encontrar facilmente aquí: [Autonomous virtual vehicles with FNN-GA and
+Q-learning in a video game environment.](https://ieeexplore.ieee.org/document/9240296)
